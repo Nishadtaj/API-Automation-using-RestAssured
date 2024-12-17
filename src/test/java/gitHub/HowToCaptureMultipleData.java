@@ -27,7 +27,7 @@ public class HowToCaptureMultipleData {
 	
 		// storng the response we got in the variable of type Response and fetching the required with the help of it
 		System.out.println(createRepoResp.getStatusCode());
-		System.out.print(createRepoResp.body().jsonPath().get("name"));
+		System.out.println(createRepoResp.body().jsonPath().get("name"));
 		System.out.println(createRepoResp.body().jsonPath().get("description"));
 		System.out.println(createRepoResp.body().jsonPath().get("private"));
 		System.out.println(createRepoResp.body().jsonPath().get("owner.login"));
