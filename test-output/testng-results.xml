@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="10" passed="10" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2024-12-17T04:35:45 IST" name="Default suite" finished-at="2024-12-17T04:36:01 IST" duration-ms="16166">
+    <groups>
+    </groups>
+    <test started-at="2024-12-17T04:35:45 IST" name="Default test" finished-at="2024-12-17T04:36:01 IST" duration-ms="16166">
+      <class name="shoppersStack.Shopper">
+        <test-method signature="shopperLogin()[pri:1, instance:shoppersStack.Shopper@79e2c065]" started-at="2024-12-17T04:35:45 IST" name="shopperLogin" finished-at="2024-12-17T04:35:51 IST" duration-ms="6202" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- shopperLogin -->
+        <test-method signature="viewProducts()[pri:2, instance:shoppersStack.Shopper@79e2c065]" started-at="2024-12-17T04:35:51 IST" name="viewProducts" finished-at="2024-12-17T04:35:55 IST" duration-ms="3234" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- viewProducts -->
+        <test-method signature="addProductToCart()[pri:3, instance:shoppersStack.Shopper@79e2c065]" started-at="2024-12-17T04:35:55 IST" name="addProductToCart" finished-at="2024-12-17T04:35:56 IST" duration-ms="857" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addProductToCart -->
+        <test-method signature="getAllProductsFromCart()[pri:4, instance:shoppersStack.Shopper@79e2c065]" started-at="2024-12-17T04:35:56 IST" name="getAllProductsFromCart" finished-at="2024-12-17T04:35:56 IST" duration-ms="919" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- getAllProductsFromCart -->
+        <test-method signature="updateProductInCart()[pri:5, instance:shoppersStack.Shopper@79e2c065]" started-at="2024-12-17T04:35:56 IST" name="updateProductInCart" finished-at="2024-12-17T04:35:57 IST" duration-ms="811" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- updateProductInCart -->
+        <test-method signature="addAddress()[pri:7, instance:shoppersStack.Shopper@79e2c065]" started-at="2024-12-17T04:35:57 IST" name="addAddress" finished-at="2024-12-17T04:35:58 IST" duration-ms="815" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addAddress -->
+        <test-method signature="placeOrder()[pri:7, instance:shoppersStack.Shopper@79e2c065]" started-at="2024-12-17T04:35:58 IST" name="placeOrder" finished-at="2024-12-17T04:35:59 IST" duration-ms="802" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- placeOrder -->
+        <test-method signature="addReview()[pri:8, instance:shoppersStack.Shopper@79e2c065]" started-at="2024-12-17T04:35:59 IST" name="addReview" finished-at="2024-12-17T04:36:00 IST" duration-ms="840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- addReview -->
+        <test-method signature="deleteReview()[pri:9, instance:shoppersStack.Shopper@79e2c065]" started-at="2024-12-17T04:36:00 IST" name="deleteReview" finished-at="2024-12-17T04:36:00 IST" duration-ms="762" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteReview -->
+        <test-method signature="deleteAddress()[pri:10, instance:shoppersStack.Shopper@79e2c065]" started-at="2024-12-17T04:36:00 IST" name="deleteAddress" finished-at="2024-12-17T04:36:01 IST" duration-ms="763" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- deleteAddress -->
+      </class> <!-- shoppersStack.Shopper -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
